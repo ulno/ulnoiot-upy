@@ -1,6 +1,11 @@
-=======
-ulnoiot
-=======
+===================
+ulnoiot micropython
+===================
+
+*Attention, this is the retired version of ulnoiot which was based on micropython.
+For new features head to http://github.com/ulno/ulnoiot*
+
+All infomration here might be slightly outdated and not work. If you want to adopt thi sproject and continue it, feel free to adopt the original author ulno.
 
 Introduction
 ------------
